@@ -1,2 +1,2 @@
 # jiyuu
-an open source lecture management system sdk 
+an open source lms sdk 
